@@ -6,3 +6,5 @@
 /.idea/vcs.xml
 /geocode.ini
 /.ipynb_checkpoints
+/data/Distances.csv
+/data/.ipynb_checkpoints
