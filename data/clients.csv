@@ -1,5 +1,5 @@
-name,land,street,number,zip,city,notes,latitude,longitude
-Suomen Pankki,Finland,Snellmaninkatu,2,00170,Helsinki,Finlands bank,60.170329,24.9532664
-Banque de France,France,rue Croix des Petits-Champs,31,75001,Paris,Bank of France,48.86384,2.3397793
-Banco de Espana,Spain,C/ Alcalá,48,28014,Madrid,Bank of Spain,40.298463,-3.3019204
-Τράπεζα Της Ελλάδος,Greece,El. Venizelou,21,10250,Athina,Bank of Greece,37.98486,23.755946
+client_id,name,land,street,number,zip,city,notes,latitude,longitude
+1,Suomen Pankki,Finland,Snellmaninkatu,2,170,Helsinki,Finlands bank,60.170329,24.9532664
+2,Banque de France,France,rue Croix des Petits-Champs,31,75001,Paris,Bank of France,48.86384,2.3397793
+3,Banco de Espana,Spain,C/ Alcalá,48,28014,Madrid,Bank of Spain,40.298463,-3.3019204
+4,Τράπεζα Της Ελλάδος,Greece,El. Venizelou,21,10250,Athina,Bank of Greece,37.98486,23.755946
