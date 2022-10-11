@@ -10,3 +10,7 @@ data/.ipynb_checkpoints
 .idea/*
 __pycache__/*
 data/.ipynb_checkpoints/*
+.idea/.gitignore
+__pycache__/geo_convert.cpython-38.pyc
+data/.ipynb_checkpoints/clients-checkpoint.csv
+data/.ipynb_checkpoints/hosts-checkpoint.csv
