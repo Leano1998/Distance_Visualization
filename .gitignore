@@ -8,6 +8,6 @@
 .ipynb_checkpoints/
 /data/Distances.csv
 /data/.ipynb_checkpoints
-.idea/
-__pycache__/
-data/.ipynb_checkpoints/
+.idea/*
+__pycache__/*
+data/.ipynb_checkpoints/*
