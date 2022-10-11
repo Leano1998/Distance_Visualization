@@ -5,6 +5,9 @@
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
 /geocode.ini
-/.ipynb_checkpoints
+.ipynb_checkpoints/
 /data/Distances.csv
 /data/.ipynb_checkpoints
+.idea/
+__pycache__/
+data/.ipynb_checkpoints/
