@@ -1,0 +1,7 @@
+Origin,Target,Vektorlength,Distance,Duration(ms),Vekt_Stand,Dist_Stand,Dur_Stand
+Frankfurt,Paris,0,477,"11,64",0,0,0
+Frankfurt,London,0,636,"15,37",0,"0,027880063124671","0,052810420501203"
+Frankfurt,Madrid,0,1447,"28,74",0,"0,17008591969139","0,242106753504177"
+Frankfurt,Helsinki,"54,35773359",1505,"34,49",1,"0,180256005611082","0,323516919156166"
+Frankfurt,Athen,0,1801,"38,14",0,"0,2321585130633","0,375194676483081"
+Frankfurt,New York,0,6180,"82,27",0,1,1
